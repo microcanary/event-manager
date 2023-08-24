@@ -6,7 +6,7 @@ local json = require('json')
 local secretFile = io.open("secret")
 local jsonFile = io.open("data.json")
 
-local controlID = 260155161232670724
+local controlID = "260155161232670724"
 
 if secretFile == nil or jsonFile == nil then
     error("Missing files.")
