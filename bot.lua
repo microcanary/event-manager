@@ -1,20 +1,26 @@
 local discordia = require('discordia')
 local client = discordia.Client()
 
-local secretFile = io.open("secret")
+local json = require('json')
 
-if secretFile == nil then
-    error("No secret file.")
+local secretFile = io.open("secret")
+local jsonFile = io.open("data.json")
+
+local controlID = 260155161232670724
+
+if secretFile == nil or jsonFile == nil then
+    error("Missing files.")
 end
+
+----------------------------------------------------------------
+
+local database = json.decode(jsonFile:read("*a"))
 
 client:on('ready', function()
 	print('Logged in as '.. client.user.username)
 end)
 
-client:on('messageCreate', function(message)
-	if message.content == '!ping' then
-		message.channel:send('pong!')
-	end
-end)
+----------------------------------------------------------------
 
 client:run("Bot "..secretFile:read("*a"))
+secretFile:close()
