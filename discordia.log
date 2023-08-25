@@ -16,3 +16,239 @@
 2023-08-23 21:50:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2023-08-23 21:50:31 | [INFO]    | Shard 0 : Received HELLO
 2023-08-23 21:50:31 | [INFO]    | Shard 0 : Received READY
+2023-08-24 15:16:18 | [INFO]    | Discordia 2.11.2
+2023-08-24 15:16:18 | [INFO]    | Connecting to Discord...
+2023-08-24 15:16:19 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 15:16:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 15:16:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 15:16:19 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 15:16:20 | [INFO]    | Shard 0 : Received READY
+2023-08-24 20:48:49 | [INFO]    | Discordia 2.11.2
+2023-08-24 20:48:49 | [INFO]    | Connecting to Discord...
+2023-08-24 20:48:51 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 20:48:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 20:48:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 20:48:51 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 20:48:51 | [INFO]    | Shard 0 : Received READY
+2023-08-24 20:48:54 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/applications/1144124893999407234/commands
+2023-08-24 20:53:27 | [INFO]    | Discordia 2.11.2
+2023-08-24 20:53:27 | [INFO]    | Connecting to Discord...
+2023-08-24 20:53:27 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 20:53:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 20:53:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 20:53:27 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 20:53:27 | [INFO]    | Shard 0 : Received READY
+2023-08-24 20:53:28 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/applications/1144124893999407234/commands
+2023-08-24 20:57:11 | [INFO]    | Discordia 2.11.2
+2023-08-24 20:57:11 | [INFO]    | Connecting to Discord...
+2023-08-24 20:57:11 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 20:57:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 20:57:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 20:57:11 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 20:57:11 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:01:46 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:01:46 | [INFO]    | Connecting to Discord...
+2023-08-24 21:01:47 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:01:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:01:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:01:47 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:01:47 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:03:00 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:03:00 | [INFO]    | Connecting to Discord...
+2023-08-24 21:03:01 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:03:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:03:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:03:01 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:03:01 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:05:44 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:05:44 | [INFO]    | Connecting to Discord...
+2023-08-24 21:05:44 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:05:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:05:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:05:44 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:05:44 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:06:05 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:06:05 | [INFO]    | Connecting to Discord...
+2023-08-24 21:06:08 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:06:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:06:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:06:08 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:06:08 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:13:18 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:13:18 | [INFO]    | Connecting to Discord...
+2023-08-24 21:13:18 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:13:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:13:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:13:18 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:13:18 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:16:45 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:16:45 | [INFO]    | Connecting to Discord...
+2023-08-24 21:16:45 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:16:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:16:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:16:46 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:16:46 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:17:13 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/interactions/1144485603610730588/aW50ZXJhY3Rpb246MTE0NDQ4NTYwMzYxMDczMDU4ODpZMG9oN1R4QVcyQjNzS1dMWFA0b3BIbURmdWpVcWgzYndLMTEyVnpsemx2VVpuWEVzUVJzRHhLSUdmcXp2eDQzQ1ZXdGxhRFh6N1ZZVUs4YkRCeHd5cWx6TjBkWjd5RFJwTDFkbWxOR3JOSWl2S25TcGJFWWU4MXY1UTV3R3A4Vg/callback
+2023-08-24 21:17:30 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:17:30 | [INFO]    | Connecting to Discord...
+2023-08-24 21:17:30 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:17:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:17:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:17:31 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:17:31 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:18:12 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:18:12 | [INFO]    | Connecting to Discord...
+2023-08-24 21:18:12 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:18:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:18:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:18:12 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:18:12 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:47:16 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:47:16 | [INFO]    | Connecting to Discord...
+2023-08-24 21:47:17 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:47:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:47:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:47:17 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:47:17 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:48:51 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:48:51 | [INFO]    | Connecting to Discord...
+2023-08-24 21:48:52 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:48:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:48:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:48:52 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:48:52 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:50:13 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:50:13 | [INFO]    | Connecting to Discord...
+2023-08-24 21:50:13 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:50:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:50:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:50:13 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:50:14 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:51:08 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:51:08 | [INFO]    | Connecting to Discord...
+2023-08-24 21:51:09 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:51:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:51:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:51:09 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:51:09 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:52:37 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:52:37 | [INFO]    | Connecting to Discord...
+2023-08-24 21:52:38 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:52:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:52:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:52:38 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:52:38 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:53:20 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:53:20 | [INFO]    | Connecting to Discord...
+2023-08-24 21:53:20 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:53:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:53:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:53:20 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:53:20 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:53:48 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:53:48 | [INFO]    | Connecting to Discord...
+2023-08-24 21:53:48 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:53:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:53:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:53:48 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:53:49 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:54:45 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:54:45 | [INFO]    | Connecting to Discord...
+2023-08-24 21:54:45 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:54:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:54:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:54:45 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:54:45 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:55:05 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/interactions/1144495138203258930/aW50ZXJhY3Rpb246MTE0NDQ5NTEzODIwMzI1ODkzMDpTTmhxbzczVWd2a0dMY1cxc2VHVmtEcGhGUTJpYjU2SHcxSFZlMUhxNmNsanE2S1ZHQVZ6ZXh1QzdydkZDRzlFb0ZqZ3U4RWE1clBNdFZBdWNDcTFCcThzdlZ3ekVoZ1JzcUtWRW51aGQ0czVrWlFraVJtM2JkWEJmVGdiWDR0Tg/callback
+2023-08-24 21:56:29 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:56:29 | [INFO]    | Connecting to Discord...
+2023-08-24 21:56:29 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:56:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:56:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:56:29 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:56:29 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:56:50 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/interactions/1144495579548880936/aW50ZXJhY3Rpb246MTE0NDQ5NTU3OTU0ODg4MDkzNjowT2ZZZkhXcnFGa2VKcWJHYnlYSk53RHJtc0pLUGkxWjRyVXZZZ2VkdWtUWU9IRmg1Ujg4akpkQk01R2JsWXdlTW92Q0d4em5OSDFsNkFESFVGYTZuZFRDZGlhYVJNVnhid0JhYmFxc3FVNmRZcUtxcU9FSWxBZ04zYUxSQjhTMw/callback
+2023-08-24 21:59:30 | [INFO]    | Discordia 2.11.2
+2023-08-24 21:59:30 | [INFO]    | Connecting to Discord...
+2023-08-24 21:59:31 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 21:59:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 21:59:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 21:59:31 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 21:59:31 | [INFO]    | Shard 0 : Received READY
+2023-08-24 21:59:59 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/interactions/1144496370657546290/aW50ZXJhY3Rpb246MTE0NDQ5NjM3MDY1NzU0NjI5MDpUNklZTzZnMnloelVDU0h0OEtTS2Qxc1NwdWNsYWZTSEE3NUhoUWU1ekhxQTdXTXBNejNTUzZkYnh3dk9HZ09ZN09JRnVIQlpDQUx5Q0JRYzBUTkR0M3NWNmsxbnhORkNlSnNQUmtRUjVydzhlS0tmRFlDbFYzb2NnRXZ3QU5NWA/callback
+2023-08-24 22:01:17 | [INFO]    | Discordia 2.11.2
+2023-08-24 22:01:17 | [INFO]    | Connecting to Discord...
+2023-08-24 22:01:17 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 22:01:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 22:01:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 22:01:17 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 22:01:17 | [INFO]    | Shard 0 : Received READY
+2023-08-24 22:02:00 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/interactions/1144496878956855367/aW50ZXJhY3Rpb246MTE0NDQ5Njg3ODk1Njg1NTM2NzoxZVdiRm14c2N3SXFWVlpUMEs3MW5GdjdVV2N1UEsxaUE5aGV4QWluTjhPU0YwaHhYbExJdlhKZ1AzOXNNeU1tQ2NYOUVlM3UwZ2RobERyemZ4d0ZZWFZMMlFsdng3NVFmTm1hMThHSG5uS2F6cWMxQmtCS1pCNzQ1VEk1WFdxbg/callback
+2023-08-24 22:02:57 | [INFO]    | Discordia 2.11.2
+2023-08-24 22:02:57 | [INFO]    | Connecting to Discord...
+2023-08-24 22:02:58 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 22:02:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 22:02:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 22:02:58 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 22:02:58 | [INFO]    | Shard 0 : Received READY
+2023-08-24 22:04:46 | [INFO]    | Discordia 2.11.2
+2023-08-24 22:04:46 | [INFO]    | Connecting to Discord...
+2023-08-24 22:04:46 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 22:04:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 22:04:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 22:04:46 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 22:04:46 | [INFO]    | Shard 0 : Received READY
+2023-08-24 22:05:29 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/interactions/1144497756015165450/aW50ZXJhY3Rpb246MTE0NDQ5Nzc1NjAxNTE2NTQ1MDpLbTZBUHNUM01xOVRKSk9XQkJtUlZnMlNFT2VmVGowVzFSeWxmS25EUWtTdjljZks0ZUExN2NlZ0lLN1hKWEFTbnZmVFE1YmhoMElDQ2JFZlhrRnoyOUhnbURRMTdxWDY2eUt0UjVQVXNic2FHTGFUaktpdHNZeWRYNWpoVEQyRg/callback
+2023-08-24 22:05:54 | [INFO]    | Discordia 2.11.2
+2023-08-24 22:05:54 | [INFO]    | Connecting to Discord...
+2023-08-24 22:05:54 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 22:05:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 22:05:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 22:05:54 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 22:05:55 | [INFO]    | Shard 0 : Received READY
+2023-08-24 22:07:31 | [INFO]    | Discordia 2.11.2
+2023-08-24 22:07:31 | [INFO]    | Connecting to Discord...
+2023-08-24 22:07:31 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 22:07:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 22:07:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 22:07:31 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 22:07:31 | [INFO]    | Shard 0 : Received READY
+2023-08-24 22:07:48 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/interactions/1144498330257346570/aW50ZXJhY3Rpb246MTE0NDQ5ODMzMDI1NzM0NjU3MDpFSHE2V3RHSktKSGlRTkcxbWdKeWRLMEdCS1dxbkwzdkZ1OGxleTVnZ2RHb2tReTdWVlU0V3ZhUHZDTHhuMnRJWUtuT0dFNENydE9XaHlRWHl5NVZXVFplUE5nVTJnTXpaVFN6dU1CVXRxbzBuTUhUbVhNam0xcERqV2tVR1RuWg/callback
+2023-08-24 22:07:56 | [ERROR]   | 404 - Not Found : POST https://discord.com/api/v8/interactions/1144498370929512478/aW50ZXJhY3Rpb246MTE0NDQ5ODM3MDkyOTUxMjQ3ODoweWx4Zm42ZW1ybGwyV3ROMks5UU92cEJ2MWo5Z2dJM1Rkdm1PVjViNnVaeDFlTnlRaGRtRU9kc1hPejMzN3VVS0pDcE5Jem1za2pQVlpvM1RpU0xta0NNZEh2bUlqd21WeHNyVjJQeldIbUY5Mk8xWGdSbngwWURHeXc0UXhFcg/callback
+2023-08-24 22:08:11 | [INFO]    | Discordia 2.11.2
+2023-08-24 22:08:11 | [INFO]    | Connecting to Discord...
+2023-08-24 22:08:11 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 22:08:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 22:08:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 22:08:11 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 22:08:12 | [INFO]    | Shard 0 : Received READY
+2023-08-24 22:08:25 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/interactions/1144498488596500531/aW50ZXJhY3Rpb246MTE0NDQ5ODQ4ODU5NjUwMDUzMTpEZnFYRU9kdzRJMFFsb3E1cE5LaWJIZG5ldERpWFpITEJoU0RGVmp1R2tybTBFeUlpeUpDd3FCSUVnTGFBRVNEQWs0YVJkNFBLNzQxT1dyYmd0c3p6SGVsVHlnQTNqbFVOMXFQc1F2MDQ4SEVaemh0RUpSYkFMZ1RwWElJVWFwdA/callback
+2023-08-24 22:08:29 | [ERROR]   | 404 - Not Found : POST https://discord.com/api/v8/interactions/1144498509186355270/aW50ZXJhY3Rpb246MTE0NDQ5ODUwOTE4NjM1NTI3MDpjVnVtcjlXYkZHV2k4S0V0NnBwV3hIWjVjZEcyV2hldVo1aTV5azhsZVlVdjRuQnN3cHBQbFFVV2hBRlNEZnJabTBFYmpwRENIcVBSRkM4d0NDQTFDMzdRamg4NmU0YzVwU0M4MzFhZktoeHhMcXNkVUtMQTRKZEFBR24wOUV6dw/callback
+2023-08-24 22:08:40 | [INFO]    | Discordia 2.11.2
+2023-08-24 22:08:40 | [INFO]    | Connecting to Discord...
+2023-08-24 22:08:41 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 22:08:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 22:08:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 22:08:41 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 22:08:41 | [INFO]    | Shard 0 : Received READY
+2023-08-24 22:10:21 | [INFO]    | Discordia 2.11.2
+2023-08-24 22:10:21 | [INFO]    | Connecting to Discord...
+2023-08-24 22:10:21 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 22:10:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 22:10:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 22:10:21 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 22:10:22 | [INFO]    | Shard 0 : Received READY
+2023-08-24 22:13:44 | [INFO]    | Discordia 2.11.2
+2023-08-24 22:13:44 | [INFO]    | Connecting to Discord...
+2023-08-24 22:13:44 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 22:13:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 22:13:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 22:13:44 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 22:13:44 | [INFO]    | Shard 0 : Received READY
+2023-08-24 22:16:18 | [INFO]    | Discordia 2.11.2
+2023-08-24 22:16:18 | [INFO]    | Connecting to Discord...
+2023-08-24 22:16:18 | [INFO]    | Authenticated as Event Manager#7168
+2023-08-24 22:16:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-24 22:16:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-24 22:16:18 | [INFO]    | Shard 0 : Received HELLO
+2023-08-24 22:16:19 | [INFO]    | Shard 0 : Received READY
